@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-promote-artist-work-tour-latam/static/css/main.fbc71c80.chunk.css",
+    "main.js": "/react-promote-artist-work-tour-latam/static/js/main.38bbf07f.chunk.js",
+    "runtime~main.js": "/react-promote-artist-work-tour-latam/static/js/runtime~main.97083d61.js",
+    "static/js/2.9259d75a.chunk.js": "/react-promote-artist-work-tour-latam/static/js/2.9259d75a.chunk.js",
+    "index.html": "/react-promote-artist-work-tour-latam/index.html",
+    "precache-manifest.1ba8fe43e735f25b9eae5d2b790e25f2.js": "/react-promote-artist-work-tour-latam/precache-manifest.1ba8fe43e735f25b9eae5d2b790e25f2.js",
+    "service-worker.js": "/react-promote-artist-work-tour-latam/service-worker.js",
+    "static/media/Countdown-avatar-pb.png": "/react-promote-artist-work-tour-latam/static/media/Countdown-avatar-pb.c7a592e9.png",
+    "static/media/back.svg": "/react-promote-artist-work-tour-latam/static/media/back.137ce7b9.svg",
+    "static/media/background.png": "/react-promote-artist-work-tour-latam/static/media/background.a35c848a.png",
+    "static/media/close.svg": "/react-promote-artist-work-tour-latam/static/media/close.f6a4a9bb.svg",
+    "static/media/discovery logo.png": "/react-promote-artist-work-tour-latam/static/media/discovery logo.f1271705.png",
+    "static/media/discovery_logo_brazil.svg": "/react-promote-artist-work-tour-latam/static/media/discovery_logo_brazil.3ee6c4e5.svg",
+    "static/media/email.svg": "/react-promote-artist-work-tour-latam/static/media/email.c35d23fa.svg",
+    "static/media/facebook.svg": "/react-promote-artist-work-tour-latam/static/media/facebook.98fec0a6.svg",
+    "static/media/favicon-brasil.ico": "/react-promote-artist-work-tour-latam/static/media/favicon-brasil.2b288c12.ico",
+    "static/media/favicon.ico": "/react-promote-artist-work-tour-latam/static/media/favicon.b18d6498.ico",
+    "static/media/icon_chevron_right.svg": "/react-promote-artist-work-tour-latam/static/media/icon_chevron_right.c31f082c.svg",
+    "static/media/logo easy.png": "/react-promote-artist-work-tour-latam/static/media/logo easy.2af97273.png",
+    "static/media/logo einhell.png": "/react-promote-artist-work-tour-latam/static/media/logo einhell.33b6f1a6.png",
+    "static/media/logo scotiabank.png": "/react-promote-artist-work-tour-latam/static/media/logo scotiabank.d3d447a6.png",
+    "static/media/logo sinteplast.png": "/react-promote-artist-work-tour-latam/static/media/logo sinteplast.c654e326.png",
+    "static/media/menu_white.svg": "/react-promote-artist-work-tour-latam/static/media/menu_white.fd49d05f.svg",
+    "static/media/preview.jpg": "/react-promote-artist-work-tour-latam/static/media/preview.a92816f4.jpg",
+    "static/media/twitter.svg": "/react-promote-artist-work-tour-latam/static/media/twitter.d73fa202.svg",
+    "static/media/whatsapp.svg": "/react-promote-artist-work-tour-latam/static/media/whatsapp.36a4448e.svg"
+  }
+}
