@@ -2,7 +2,6 @@
   "name": "static-property-brothers-contest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
   "dependencies": {
     "babel-eslint": "^10.0.2",
     "babel-plugin-transform-class-properties": "^6.24.1",
@@ -10,6 +9,7 @@
     "eslint": "^6.1.0",
     "eslint-loader": "^2.2.1",
     "eslint-plugin-react": "^7.14.3",
+    "gh-pages": "^2.2.0",
     "lodash": "^4.17.15",
     "react": "^16.8.6",
     "react-dfp": "^0.14.0",
@@ -29,6 +29,7 @@
     "rebass": "^3.2.0",
     "styled-components": "^4.3.2"
   },
+  "homepage": "https://radinax.github.io/react-promote-artist-work-tour-latam/",
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js' --html result.html",
     "start": "cross-env REACT_APP_LANGCODE=es react-scripts start",
@@ -36,7 +37,8 @@
     "build": "cross-env REACT_APP_LANGCODE=es GENERATE_SOURCEMAP=false react-scripts build",
     "build:br": "cross-env REACT_APP_LANGCODE=pt-BR GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
