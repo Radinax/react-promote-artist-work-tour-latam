@@ -1,0 +1,59 @@
+{
+  "name": "static-property-brothers-contest",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "dependencies": {
+    "babel-eslint": "^10.0.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "cross-env": "^5.2.0",
+    "eslint": "^6.1.0",
+    "eslint-loader": "^2.2.1",
+    "eslint-plugin-react": "^7.14.3",
+    "lodash": "^4.17.15",
+    "react": "^16.8.6",
+    "react-dfp": "^0.14.0",
+    "react-dom": "^16.8.6",
+    "react-facebook": "^8.0.4",
+    "react-gtm-module": "^2.0.7",
+    "react-headroom": "^2.2.8",
+    "react-helmet": "^5.2.1",
+    "react-instagram-embed": "^1.5.0",
+    "react-lazy-load-image-component": "^1.3.2",
+    "react-lazyload": "^2.6.2",
+    "react-loading-skeleton": "^1.1.2",
+    "react-scripts": "3.0.1",
+    "react-svg": "^10.0.17",
+    "react-twitter-embed": "^2.0.8",
+    "react-youtube": "^7.9.0",
+    "rebass": "^3.2.0",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "analyze": "source-map-explorer 'build/static/js/*.js' --html result.html",
+    "start": "cross-env REACT_APP_LANGCODE=es react-scripts start",
+    "start:br": "cross-env REACT_APP_LANGCODE=pt-BR react-scripts start",
+    "build": "cross-env REACT_APP_LANGCODE=es GENERATE_SOURCEMAP=false react-scripts build",
+    "build:br": "cross-env REACT_APP_LANGCODE=pt-BR GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "source-map-explorer": "^2.0.1"
+  }
+}
